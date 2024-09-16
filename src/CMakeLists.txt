@@ -1,0 +1,6 @@
+add_subdirectory(calib)
+add_subdirectory(camera_models)
+add_subdirectory(chessboard)
+add_subdirectory(examples)
+add_subdirectory(gpl)
+add_subdirectory(sparse_graph)
